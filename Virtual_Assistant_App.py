@@ -124,8 +124,7 @@ def saludo_inicial():
         momento = 'Buen día'
 
     # decir saludo
-    hablar(f'{momento}. Soy Malena. provengo de petare y me pica el culo, '
-           f'y soy tu asistente personal. En que te puedo ayudar?')
+    hablar(f'{momento}. Soy Malena. Y soy tu asistente personal. En que te puedo ayudar?')
 
 
 # funcion central del asistente.
